@@ -66,5 +66,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # 2017-09-23 InRich class summary#
 
   Today I learned how to write a Blog wih Github.io. At first, I couldn't put the picture on the Blog page but after Oiver found out that I wrote extra things and so I deleted it. And......IT WORKED !!!! I was so happy. I really like this class, and I wish to come back next time.
-  ![InRich](/image1.png)
+  ![Github](/image1.png)
 Format: ![Alt Text]l)(url)

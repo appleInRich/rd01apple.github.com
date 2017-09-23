@@ -3,8 +3,9 @@
 
 You can use the [editor on GitHub](https://github.com/rd01Apple/rd01apple.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-2017-09-23: Abbie says:
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+###2017-09-23: Abbie says:###
+
+a.It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

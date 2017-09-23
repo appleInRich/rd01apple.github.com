@@ -3,7 +3,7 @@
 
 You can use the [editor on GitHub](https://github.com/rd01Apple/rd01apple.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-###2017-09-23: Abbie says:###
+### 2017-09-23: Abbie says: ###
 
 a.It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
